@@ -35,7 +35,7 @@ FormSubmit / EmailJS – Handling form submissions
 ## Installation & Usage
 Clone the repository:
 
-git clone 
+git clone https://github.com/anshikaverma12/MyPortfolioWebsite.git
 
 Open the project folder:
 
