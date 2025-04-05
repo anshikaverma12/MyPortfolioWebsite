@@ -29,13 +29,13 @@ FontAwesome & Google Fonts – Enhancing the visual appeal
 FormSubmit / EmailJS – Handling form submissions
 
 ## Live Demo
-👉 
+👉 https://anshikawebportfolio.netlify.app/
 
 
 ## Installation & Usage
 Clone the repository:
 
-git clone https://github.com/yourusername/your-portfolio.git
+git clone 
 
 Open the project folder:
 
